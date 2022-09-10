@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,YAAW,WACTC,QAAQC,IAAI,cACX,GACHD,QAAQC,IAAI,YACZD,QAAQC,IAAI,YACZD,QAAQC,IAAI","sources":["src/js/02-timer.js"],"sourcesContent":["setTimeout(() => {\n  console.log('hear - 1');\n}, 0);\nconsole.log('hear - 2');\nconsole.log('hear - 3');\nconsole.log('hear - 4');\n"],"names":["setTimeout","console","log"],"version":3,"file":"02-timer.b2f09a26.js.map"}
