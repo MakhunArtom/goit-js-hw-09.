@@ -16,3 +16,31 @@ img {
   display: block;
   max-width: 100%;
 }
+
+
+/* Таймер */
+
+button {
+  margin-bottom: 30px;
+}
+
+.timer {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.field {
+  max-width: 50px;
+  text-transform: uppercase;
+}
+
+.field:not(:last-child) {
+  margin-right: 30px;
+}
+
+.value {
+  font-size: 40px;
+}
+
+/* Таймер */
