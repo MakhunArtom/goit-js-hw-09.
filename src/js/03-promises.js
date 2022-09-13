@@ -41,8 +41,8 @@ function createPromise(position, delay) {
 
 function getInputValue() {
   return {
-    delay: refs.delay.value,
-    step: refs.step.value,
-    amount: refs.amount.value,
+    delay: Number(refs.delay.value),
+    step: Number(refs.step.value),
+    amount: Number(refs.amount.value),
   };
 }
